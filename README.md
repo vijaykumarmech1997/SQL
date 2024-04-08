@@ -18,7 +18,6 @@ Danny has provided you with a sample of his overall customer data due to privacy
 - members
 
 #### DATA SET CASE STUDY1 [DOWNLOAD HERE](https://8weeksqlchallenge.com/case-study-1/)
-#### LINKDIN
 
 ##### Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.

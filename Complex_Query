@@ -6,7 +6,8 @@ who have done the procedures but never did prescribe anything.
 
 --Table Structure:*/
 
-```drop table event_category;
+```sql
+drop table event_category;
 create table event_category
 (
   event_name varchar(50),

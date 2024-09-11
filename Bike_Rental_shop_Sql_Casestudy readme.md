@@ -56,7 +56,7 @@ create table membership
 );
 
 
-
+```
 insert into customer values(1,	'John Doe',			'john.doe@example.com');
 insert into customer values(2,	'Alice Smith',		'alice.smith@example.com');
 insert into customer values(3,	'Bob Johnson',		'bob.johnson@example.com');
@@ -66,7 +66,7 @@ insert into customer values(6,	'Sarah White',		'sarah.white@example.com');
 insert into customer values(7,	'David Wilson',		'david.wilson@example.com');
 insert into customer values(8,	'Emily Davis',		'emily.davis@example.com');
 insert into customer values(9,	'Daniel Miller',	'daniel.miller@example.com');
-insert into customer values(10,	'Olivia Taylor',	'olivia.taylor@example.com');
+insert into customer values(10,	'Olivia Taylor',	'olivia.taylor@example.com');```
 
 
 insert into bike values(1,	'Mountain Bike 1'	,'mountain bike'	,10.00	,50.00	,'available');

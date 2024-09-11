@@ -1,5 +1,5 @@
-```Create Database Bike_Rentel;
-Use Bike_Rentel;```
+Create Database Bike_Rentel;
+Use Bike_Rentel;
 
 drop table if exists customer;
 create table customer
@@ -141,7 +141,7 @@ select * from rental;
 select * from membership_type;
 select * from membership;
 
-1. /*Emily would like to know how many bikes the shop owns by category. Can
+###Emily would like to know how many bikes the shop owns by category. Can
 you get this for her?
 Display the category name and the number of bikes the shop owns in
 each category (call this column number_of_bikes ). Show only the categories
